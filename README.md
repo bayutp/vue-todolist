@@ -23,4 +23,5 @@ Teknologi yang Digunakan
 - HTML & CSS: Untuk struktur dan styling halaman.
 
 Kontribusi
+
 Jika Anda ingin berkontribusi pada proyek ini, silakan buat pull request atau buka issue baru. Kami menghargai setiap masukan dan perbaikan.
